@@ -1,0 +1,37 @@
+.table-header {
+    background-color: purple;
+    display: flex;
+    flex-direction: row;
+}
+
+.table-header-item {
+    flex: 1;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0px;
+    padding: 5px;
+}
+
+.table-data-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.table-data-item {
+    flex: 1;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0px;
+    padding: 5px;
+}
+
+.page-buttons {
+    display: flex;
+    flex-direction: row;
+}
+
+.rounded-buttons-row {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}

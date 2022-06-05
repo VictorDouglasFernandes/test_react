@@ -1,0 +1,10 @@
+.orders-content {
+    padding: 15px;
+}
+
+.row-seller {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+}
